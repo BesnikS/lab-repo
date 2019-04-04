@@ -1,0 +1,5 @@
+commit 0b5c518eaa6add3fbf4d6cd2fc2d6d3826f938da (HEAD -> logs, origin/master, master)
+Author: unknown <Besnik.Saiti@students.finki.ukim.mk>
+Date:   Thu Apr 4 10:25:00 2019 +0200
+
+    Initial commit
